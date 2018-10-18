@@ -92,7 +92,8 @@
                 <div class="text-center subtitle">
                     <h3>Basically, project to manage companies and their employees. Mini-CRM.</h3>
                     login: admin@admin.com<br>
-                    pass: password
+                    pass: password<br>
+                    <a href="https://github.com/logerk46/mini_crm">github</a>
                 </div>
             </div>
         </div>
