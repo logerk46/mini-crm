@@ -39,6 +39,5 @@ Route::middleware(['auth'])->group(function (){
        Route::get('/employers/{id_employer}/edit', 'EmployerController@edit');
        Route::get('/employers/create', 'EmployerController@create');
        Route::post('/employers/create', 'EmployerController@store');
-       Route::post('/employers/create', 'EmployerController@update');
     });
 });
