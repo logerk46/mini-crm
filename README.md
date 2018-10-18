@@ -1,7 +1,7 @@
 # mini_crm
 Project to manage companies and their employees. http://minicrm-project.herokuapp.com
 
-requirements:
+Requirements:
 - Basic Laravel Auth: ability to log in as administrator
 - Use database seeds to create first user with email admin@admin.com and password “password”
 - CRUD functionality (Create / Read / Update / Delete) for two menu items: Companies and Employees.
