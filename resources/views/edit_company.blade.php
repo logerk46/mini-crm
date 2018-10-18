@@ -20,19 +20,19 @@
             <div class="form-group row">
                 <label for="name" class="col-sm-3 col-form-label">Company Name</label>
                 <div class="col-sm-9">
-                    <input name="name" type="text" class="form-control" placeholder="Company Name">
+                    <input name="name" type="text" class="form-control" placeholder="Company Name" value="{{$name}}">
                 </div>
             </div>
             <div class="form-group row">
                 <label for="email" class="col-sm-3 col-form-label">Email</label>
                 <div class="col-sm-9">
-                    <input name="email" type="text" class="form-control" placeholder="Email">
+                    <input name="email" type="text" class="form-control" placeholder="Email" value="{{$email}}">
                 </div>
             </div>
             <div class="form-group row">
                 <label for="website" class="col-sm-3 col-form-label">Website</label>
                 <div class="col-sm-9">
-                    <input name="website" type="text" class="form-control"placeholder="Website">
+                    <input name="website" type="text" class="form-control"placeholder="Website" value="{{$website}}">
                 </div>
             </div>
             <div class="form-group row">
